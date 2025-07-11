@@ -1,0 +1,62 @@
+[
+  {
+    "name": "กล่องตีอาวุธ",
+    "price": 6.0,
+    "emoji": "🧰"
+  },
+  {
+    "name": "ไวเบรเนี่ยม",
+    "price": 28.0,
+    "emoji": "🧪"
+  },
+  {
+    "name": "Harmony",
+    "price": 16.0,
+    "emoji": "💎"
+  },
+  {
+    "name": "ปูน",
+    "price": 0.75,
+    "emoji": "🧱"
+  },
+  {
+    "name": "สายไฟ",
+    "price": 2.5,
+    "emoji": "⚡"
+  },
+  {
+    "name": "Anvil",
+    "price": 3.5,
+    "emoji": "📭"
+  },
+  {
+    "name": "Ruby",
+    "price": 0.3333,
+    "emoji": "♦️"
+  },
+  {
+    "name": "แพ็คเพชร",
+    "price": 12.0,
+    "emoji": "📦💎"
+  },
+  {
+    "name": "แพ็คทอง",
+    "price": 2.5,
+    "emoji": "📦🪙"
+  },
+  {
+    "name": "แพ็คทองแดง",
+    "price": 1.2,
+    "emoji": "📦🥉"
+  },
+  {
+    "name": "แพ็คเหล็ก",
+    "price": 2.5,
+    "emoji": "📦⚙️"
+  },
+  {
+    "name": "แพ็คไม้",
+    "price": 2.5,
+    "emoji": "📦🌴"
+  }
+]

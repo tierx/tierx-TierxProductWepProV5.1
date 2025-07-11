@@ -1,0 +1,20 @@
+{
+  "category_names": {
+    "money": "เงินเขียว-แดง",
+    "weapon": "อาวุธ",
+    "item": "ไอเทม",
+    "story": "ไอเทมStory",
+    "car": "รถยนต์",
+    "fashion": "แฟชั่น-สกินอาวุธ",
+    "rentcar": "เช่ารถ"
+  },
+  "category_emojis": {
+    "money": "💰",
+    "weapon": "🗡️",
+    "item": "📦",
+    "story": "🤼",
+    "car": "🚗",
+    "fashion": "👕",
+    "rentcar": "🚙"
+  }
+}

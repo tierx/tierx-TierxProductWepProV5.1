@@ -1,0 +1,442 @@
+[
+  {
+    "_id": "687082c9abc3b9ad63ee335c",
+    "name": "Lamborghini-STO",
+    "price": 2600.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee335d",
+    "name": "M4",
+    "price": 2200.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee335e",
+    "name": "Thrax",
+    "price": 1200.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee335f",
+    "name": "Mclaren600LT",
+    "price": 2400.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee3360",
+    "name": "Taycan",
+    "price": 2000.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee3361",
+    "name": "Turismo",
+    "price": 700.0,
+    "emoji": "🏎️",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082caabc3b9ad63ee3362",
+    "name": "เครื่องยนต์ss2",
+    "price": 500.0,
+    "emoji": "🛞",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3363",
+    "name": "SkinWinter,ไม้",
+    "price": 450.0,
+    "emoji": "🪄",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3364",
+    "name": "SkinStarMagic,ไม้",
+    "price": 450.0,
+    "emoji": "🪄",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3365",
+    "name": "SkinPoker,ไม้",
+    "price": 450.0,
+    "emoji": "🪄",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3366",
+    "name": "SkinDragon,ไม้",
+    "price": 350.0,
+    "emoji": "🪄",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3367",
+    "name": "SkinPoker,มีด",
+    "price": 280.0,
+    "emoji": "⚔️",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082cbabc3b9ad63ee3368",
+    "name": "SkinDragon,มีด",
+    "price": 250.0,
+    "emoji": "⚔️",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee3369",
+    "name": "SkinPoker,ฉลาม",
+    "price": 280.0,
+    "emoji": "🪮",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee336a",
+    "name": "แฟชั่นBunny-1set",
+    "price": 1200.0,
+    "emoji": "💃",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee336b",
+    "name": "กล่องตีอาวุธ",
+    "price": 6.0,
+    "emoji": "🧰",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee336c",
+    "name": "ไวเบรเนี่ยม",
+    "price": 28.0,
+    "emoji": "🧪",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee336d",
+    "name": "Harmony",
+    "price": 16.0,
+    "emoji": "💎",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ccabc3b9ad63ee336e",
+    "name": "ปูน",
+    "price": 0.75,
+    "emoji": "🧱",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee336f",
+    "name": "สายไฟ",
+    "price": 2.5,
+    "emoji": "⚡",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee3370",
+    "name": "Anvil",
+    "price": 3.5,
+    "emoji": "📭",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee3371",
+    "name": "Ruby",
+    "price": 0.3333,
+    "emoji": "♦️",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee3372",
+    "name": "แพ็คเพชร",
+    "price": 12.0,
+    "emoji": "📦💎",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee3373",
+    "name": "แพ็คทอง",
+    "price": 2.5,
+    "emoji": "📦🪙",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082cdabc3b9ad63ee3374",
+    "name": "แพ็คทองแดง",
+    "price": 1.2,
+    "emoji": "📦🥉",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee3375",
+    "name": "แพ็คเหล็ก",
+    "price": 2.5,
+    "emoji": "📦⚙️",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee3376",
+    "name": "แพ็คไม้",
+    "price": 2.5,
+    "emoji": "📦🌴",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee3377",
+    "name": "💵เงินเขียว,💴เงินแดง-ให้ใส่จำนวนที่ต้องการ-เช่น1.5M.ให้ใส่1500000",
+    "price": 0.0,
+    "emoji": "⚠️",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee3378",
+    "name": "เงินเขียวซื้อ1-4M=R.115฿",
+    "price": 0.000115,
+    "emoji": "💵",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee3379",
+    "name": "เงินเขียวซื้อ5+M=R.110฿",
+    "price": 0.00011,
+    "emoji": "💵",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "687082ceabc3b9ad63ee337a",
+    "name": "เงินแดง1,000=10฿",
+    "price": 0.01,
+    "emoji": "💴",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee337b",
+    "name": "ส่วนลด",
+    "price": -0.01,
+    "emoji": "🎟️",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee337c",
+    "name": "แพ็คPain(ได้30ea)",
+    "price": 2.5,
+    "emoji": "📦💖",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee337d",
+    "name": "แพ็คAED(ได้25ea)",
+    "price": 6.0,
+    "emoji": "📦⛑️",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee337e",
+    "name": "แพ็คเกาะ(ได้30ea)",
+    "price": 5.5,
+    "emoji": "📦🦺",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee337f",
+    "name": "❌💵ชุดตีทุกอย่างจะไม่รวมเงินเขียวนะงับ",
+    "price": 0.0,
+    "emoji": "⚠️",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082cfabc3b9ad63ee3380",
+    "name": "ชุดตีบลูปริ้นไม้/ฉลาม",
+    "price": 75.0,
+    "emoji": "📘🦯",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3381",
+    "name": "(ไม้/ฉลาม)ชุดตีบวก+1",
+    "price": 65.0,
+    "emoji": "🦯",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3382",
+    "name": "(ไม้/ฉลาม)ชุดตีบวก+2",
+    "price": 90.0,
+    "emoji": "🦯",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3383",
+    "name": "(ไม้/ฉลาม)ชุดตีบวก+3",
+    "price": 140.0,
+    "emoji": "🦯",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3384",
+    "name": "ชุดตีบลูปริ้นM9/Dagger",
+    "price": 135.0,
+    "emoji": "📘🗡️",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3385",
+    "name": "ชุดตีขึ้นM9/Dagger",
+    "price": 990.0,
+    "emoji": "🗡️",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d0abc3b9ad63ee3386",
+    "name": "ชุดตีบลูปริ้นสนับ",
+    "price": 105.0,
+    "emoji": "📘👊",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee3387",
+    "name": "ชุดตีขึ้นสนับ",
+    "price": 75.0,
+    "emoji": "👊",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee3388",
+    "name": "(สนับ)ชุดตีบวก+1",
+    "price": 75.0,
+    "emoji": "👊",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee3389",
+    "name": "(สนับ)ชุดตีบวก+2",
+    "price": 75.0,
+    "emoji": "👊",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee338a",
+    "name": "(สนับ)ชุดตีบวก+3",
+    "price": 135.0,
+    "emoji": "👊",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee338b",
+    "name": "ชุดตีบลูปริ้นMachete",
+    "price": 105.0,
+    "emoji": "📘🪓",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d1abc3b9ad63ee338c",
+    "name": "ชุดตีขึ้นMachete",
+    "price": 115.0,
+    "emoji": "🪓",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee338d",
+    "name": "(Machete)ชุดตีบวก+1",
+    "price": 90.0,
+    "emoji": "🪓",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee338e",
+    "name": "(Machete)ชุดตีบวก+2",
+    "price": 90.0,
+    "emoji": "🪓",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee338f",
+    "name": "(Machete)ชุดตีบวก+3",
+    "price": 135.0,
+    "emoji": "🪓",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee3390",
+    "name": "เงินเขียว",
+    "price": 0.000115,
+    "emoji": "💵",
+    "country": "5",
+    "category": "money"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee3391",
+    "name": "เงินเขียว.",
+    "price": 0.00011,
+    "emoji": "💵",
+    "country": "5",
+    "category": "money"
+  },
+  {
+    "_id": "687082d2abc3b9ad63ee3392",
+    "name": "เงินแดง",
+    "price": 0.01,
+    "emoji": "💴",
+    "country": "5",
+    "category": "money"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lamborghini-STO",
+    "price": 2600.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "M4",
+    "price": 2200.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "Thrax",
+    "price": 1200.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "Mclaren600LT",
+    "price": 2400.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "Taycan",
+    "price": 2000.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "Turismo",
+    "price": 700.0,
+    "emoji": "🏎️"
+  },
+  {
+    "name": "เครื่องยนต์ss2",
+    "price": 500.0,
+    "emoji": "🛞"
+  }
+]
